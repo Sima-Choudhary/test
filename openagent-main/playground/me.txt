@@ -1,0 +1,6 @@
+{{#user}}
+Name:Sima kumari Choudhary
+Skills: HTML, CSS, JS.
+Email:Simaecgc@gmail.com
+{{/user}}
+
